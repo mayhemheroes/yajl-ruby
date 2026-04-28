@@ -1,4 +1,5 @@
-project: PROJECT
-target: json_fuzzer
+project: yajl-ruby
+target: json-fuzzer
+
 cmds:
-- cmd: /out/json_fuzzer
+  - cmd: /out/json_fuzzer
